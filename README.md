@@ -4,3 +4,4 @@
 [Proxy란?](https://www.notion.so/Proxy-0b4340c01f8b4e129374654acbf95258)  
 [DevOps의 전반적인 흐름](https://www.notion.so/DevOps-613fdc9492d64d2f897e6c4b1bfc0baa)  
 [Django 역참조/정참조](https://www.notion.so/Django-429a1fd12d394a9084aa691643c2a816)  
+[SQL 기초](https://www.notion.so/SQL-f8be934887724b52b2c9cba0dd66cdaa)
